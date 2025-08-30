@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 <p align="center" style="font-size: 18px; color: #333; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   Full-Stack Developer | Problem Solver | Tech Innovator
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=0A66C2&center=true&width=500&lines=M;Ma;Mah;Mahe;Mahes;Mahesh;Mahesh+M;Mahesh+Ma;Mahesh+Mah;Mahesh+Mahe;Mahesh+Mahap;Mahesh+Mahapa;Mahesh+Mahapat;Mahesh+Mahapatr;Mahesh+Mahapatra" alt="Typing Name Animation" />
+</p>
