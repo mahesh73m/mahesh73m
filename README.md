@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center" style="font-size: 36px; font-weight: bold; color: #0A66C2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 2px 2px #ccc;">
+  Mahesh Mahapatra
+</p>
+<p align="center" style="font-size: 18px; color: #333; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Full-Stack Developer | Problem Solver | Tech Innovator
+</p>
